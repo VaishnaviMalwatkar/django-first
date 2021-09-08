@@ -99,3 +99,6 @@ def vaishu():
 
 def new():
     pass
+
+def new1():
+    pass
