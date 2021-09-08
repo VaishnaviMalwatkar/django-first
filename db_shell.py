@@ -102,3 +102,6 @@ def new():
 
 def new1():
     pass
+
+def dhg():
+    pass
