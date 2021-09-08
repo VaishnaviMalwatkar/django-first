@@ -109,3 +109,6 @@ def dhg():
 def one():
     for i in range(100):
         print(i)
+
+
+#jgfyujgujiygf
