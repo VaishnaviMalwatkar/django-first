@@ -105,3 +105,7 @@ def new1():
 
 def dhg():
     pass
+
+def one():
+    for i in range(100):
+        print(i)
