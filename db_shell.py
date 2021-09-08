@@ -96,3 +96,6 @@ print(pizza.topping.all())
 def vaishu():
     for i in range(6):
         pass
+
+def new():
+    pass
